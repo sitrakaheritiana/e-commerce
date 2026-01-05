@@ -47,12 +47,12 @@ Ce projet sert de **projet vitrine full-stack** et met en pratique des concepts 
 ---
 
 ## 📁 Structure prévisionnelle
-e-commerce/
-├─ frontend/
-├─ backend/
-├─ database/
-├─ docs/
-└─ README.md
+  e-commerce/
+  ├─ frontend/
+  ├─ backend/
+  ├─ database/
+  ├─ docs/
+  └─ README.md
 
 ---
 
@@ -68,3 +68,4 @@ Développeur Full-Stack Junior
 
 - GitHub : https://github.com/sitrakaheritiana
 - Email: sitrakaheritianaramamonjisoa@gmail.com
+
